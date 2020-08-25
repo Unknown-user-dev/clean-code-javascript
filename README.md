@@ -1,5 +1,4 @@
 
-> Ceci est une traduction française de ce lien: https://github.com/ryanmcdermott/clean-code-javascript
 
 ## Table Des Matières
 
